@@ -1,5 +1,5 @@
 ## What
-Generate an opml file for your youtube subscriptions to use with a rss reader.
+Generate an opml file for your youtube subscriptions to use with an rss reader.
 ..or just a list of channel names or URLs.
 
 ## Why
